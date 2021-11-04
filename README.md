@@ -1,5 +1,5 @@
 # Cointer
-Download the current version [here]()
+Download the current version [here](https://github.com/Delunado/Cointer/releases/download/V1.0/CointerWindows.zip).
 
 Cointer is a Coin Counter (for Euros). Just sum your coins & bills, introduce them to the program and let it do its magic.
 
